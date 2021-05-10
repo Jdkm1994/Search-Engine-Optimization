@@ -1,2 +1,2 @@
-# Search-Engine-Optimization
-Search Engine Optimization For Market Research Analysis Companies data - Digital Marketing Optimization of Keywords
+# SEO-SearchEngineOptimiation-POC-s
+Data Science-Proof of Concepts-(POC) Applied while doing internship, SearchEngineOptimization-SEO- Worked on the domain related to SEO (Search Engine Optimization) and was working on client specific organic search results for a particular search engine page results (SERP) and its URL, the task was to figure out how the google ranks the SERP/URL for Position One in the Google Search Engine Console, by analyzing the raw data two test cases have been carried out for checking the organic search result is in exact or broad phrase presence and is it present in all the HTML tags or not for a particular URL and verifying our results by plotting histograms using plotly library.
